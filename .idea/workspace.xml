@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6a0bc94e-8682-4cc6-b8fb-af14553f23fe" name="Changes" comment="Solved: problem no. 1920">
-      <change afterPath="$PROJECT_DIR$/src/concatinateArray_1929.java" afterDir="false" />
+    <list default="true" id="6a0bc94e-8682-4cc6-b8fb-af14553f23fe" name="Changes" comment="Solved: problem no. 1929">
+      <change afterPath="$PROJECT_DIR$/src/sumOfArray_1480.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,7 +40,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.arrayFromPermutation_1920">
+  <component name="RunManager" selected="Application.sumOfArray_1480">
     <configuration name="arrayFromPermutation_1920" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="arrayFromPermutation_1920" />
       <module name="LeetCode" />
@@ -50,13 +50,6 @@
     </configuration>
     <configuration name="badVersion_278" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="badVersion_278" />
-      <module name="LeetCode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="guess_374" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="guess_374" />
       <module name="LeetCode" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -76,13 +69,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="sumOfArray_1480" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sumOfArray_1480" />
+      <module name="LeetCode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.sumOfArray_1480" />
         <item itemvalue="Application.arrayFromPermutation_1920" />
         <item itemvalue="Application.spiralMatrix2_59" />
         <item itemvalue="Application.spiralMatrix_54" />
         <item itemvalue="Application.badVersion_278" />
-        <item itemvalue="Application.guess_374" />
       </list>
     </recent_temporary>
   </component>
@@ -103,7 +103,7 @@
       <workItem from="1662812071276" duration="68000" />
       <workItem from="1662812178286" duration="2046000" />
       <workItem from="1662874459842" duration="3000" />
-      <workItem from="1662892052975" duration="15827000" />
+      <workItem from="1662892052975" duration="16500000" />
     </task>
     <task id="LOCAL-00001" summary="Solve: problem no. 278">
       <created>1662822141990</created>
@@ -140,7 +140,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662928278919</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Solved: problem no. 1929">
+      <created>1662929122078</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1662929122078</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -163,6 +170,7 @@
     <MESSAGE value="Solving: problem no. 59" />
     <MESSAGE value="Solved: problem no. 59" />
     <MESSAGE value="Solved: problem no. 1920" />
-    <option name="LAST_COMMIT_MESSAGE" value="Solved: problem no. 1920" />
+    <MESSAGE value="Solved: problem no. 1929" />
+    <option name="LAST_COMMIT_MESSAGE" value="Solved: problem no. 1929" />
   </component>
 </project>
