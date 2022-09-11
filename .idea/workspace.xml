@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6a0bc94e-8682-4cc6-b8fb-af14553f23fe" name="Changes" comment="Solved: problem no. 1480" />
+    <list default="true" id="6a0bc94e-8682-4cc6-b8fb-af14553f23fe" name="Changes" comment="Update: refactor the directories" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,18 +28,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="Application.sumOfArray_1480">
     <configuration name="arrayFromPermutation_1920" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="arrayFromPermutation_1920" />
+      <option name="MAIN_CLASS_NAME" value="Array.arrayFromPermutation_1920" />
       <module name="LeetCode" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -67,7 +71,7 @@
       </method>
     </configuration>
     <configuration name="sumOfArray_1480" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sumOfArray_1480" />
+      <option name="MAIN_CLASS_NAME" value="Array.sumOfArray_1480" />
       <module name="LeetCode" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -100,7 +104,7 @@
       <workItem from="1662812071276" duration="68000" />
       <workItem from="1662812178286" duration="2046000" />
       <workItem from="1662874459842" duration="3000" />
-      <workItem from="1662892052975" duration="16793000" />
+      <workItem from="1662892052975" duration="17222000" />
     </task>
     <task id="LOCAL-00001" summary="Solve: problem no. 278">
       <created>1662822141990</created>
@@ -151,7 +155,21 @@
       <option name="project" value="LOCAL" />
       <updated>1662929894357</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Solved: problem no. 1480">
+      <created>1662930200198</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1662930200198</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Update: refactor the directories">
+      <created>1662930811777</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1662930811777</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -176,6 +194,7 @@
     <MESSAGE value="Solved: problem no. 1920" />
     <MESSAGE value="Solved: problem no. 1929" />
     <MESSAGE value="Solved: problem no. 1480" />
-    <option name="LAST_COMMIT_MESSAGE" value="Solved: problem no. 1480" />
+    <MESSAGE value="Update: refactor the directories" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update: refactor the directories" />
   </component>
 </project>

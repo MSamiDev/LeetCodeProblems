@@ -1,13 +1,12 @@
+package Array;
+
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
-import java.util.Scanner;
 
 public class spiralMatrix2_59 {
     public static void main(String[] args) {
 
-//      Scanner input = new Scanner(System.in);
-//      int n = input.nextInt();
         int n = 3;
         int[][] spiralOrder = spiralOrder(n);
 
@@ -60,15 +59,6 @@ public class spiralMatrix2_59 {
             left++;
         }
         System.out.println(list);
-
-//
-//        int x = 0;
-//        for (int row = 0; row < n; row++) {
-//            for (int col = 0; col < n; col++) {
-//                spiralOrder[row][col] = list.get(x);
-//                x++;
-//            }
-//        }
 
 
         return spiralOrder;
