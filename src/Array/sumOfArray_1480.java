@@ -1,3 +1,5 @@
+package Array;
+
 import java.util.Arrays;
 
 public class sumOfArray_1480 {
