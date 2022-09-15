@@ -15,6 +15,7 @@
 - [54. Spiral Matrix](https://github.com/SamiShaikh6810/LeetCodeProblems/blob/master/src/Array/spiralMatrix_54.java)
 - [1480. Running Sum of 1d Array](https://github.com/SamiShaikh6810/LeetCodeProblems/blob/master/src/Array/sumOfArray_1480.java)
 - [1672. Richest Customer Wealth](https://github.com/SamiShaikh6810/LeetCodeProblems/blob/master/src/Array/customerWealth_1672.java)
+- [1470. Shuffle the Array](https://github.com/SamiShaikh6810/LeetCodeProblems/blob/master/src/Array/suffleArray_1470.java)
 
 
 </details>
