@@ -16,6 +16,7 @@
 - [1480. Running Sum of 1d Array](https://github.com/SamiShaikh6810/LeetCodeProblems/blob/master/src/Array/sumOfArray_1480.java)
 - [1672. Richest Customer Wealth](https://github.com/SamiShaikh6810/LeetCodeProblems/blob/master/src/Array/customerWealth_1672.java)
 - [1470. Shuffle the Array](https://github.com/SamiShaikh6810/LeetCodeProblems/blob/master/src/Array/suffleArray_1470.java)
+- [1431. Kids With the Greatest Number of Candies](https://github.com/SamiShaikh6810/LeetCodeProblems/blob/master/src/Array/kidWithGratestCandies_1431.java)
 
 
 </details>
