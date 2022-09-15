@@ -17,6 +17,7 @@
 - [1672. Richest Customer Wealth](https://github.com/SamiShaikh6810/LeetCodeProblems/blob/master/src/Array/customerWealth_1672.java)
 - [1470. Shuffle the Array](https://github.com/SamiShaikh6810/LeetCodeProblems/blob/master/src/Array/suffleArray_1470.java)
 - [1431. Kids With the Greatest Number of Candies](https://github.com/SamiShaikh6810/LeetCodeProblems/blob/master/src/Array/kidWithGratestCandies_1431.java)
+- [1512. Number of Good Pairs](https://github.com/SamiShaikh6810/LeetCodeProblems/blob/master/src/Array/goodPairs_1512.java)
 
 
 </details>
