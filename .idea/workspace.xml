@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6a0bc94e-8682-4cc6-b8fb-af14553f23fe" name="Changes" comment="Solved: problem no. 1512">
-      <change afterPath="$PROJECT_DIR$/src/Array/howManySmallNumbers_1365.java" afterDir="false" />
+    <list default="true" id="6a0bc94e-8682-4cc6-b8fb-af14553f23fe" name="Changes" comment="Solved: problem no. 1365">
+      <change afterPath="$PROJECT_DIR$/src/Array/createTargetArray_1389.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,9 +46,9 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.howManySmallNumbers_1365">
-    <configuration name="customerWealth_1672" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array.customerWealth_1672" />
+  <component name="RunManager" selected="Application.createTargetArray_1389">
+    <configuration name="createTargetArray_1389" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array.createTargetArray_1389" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
@@ -114,11 +114,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.createTargetArray_1389" />
         <item itemvalue="Application.howManySmallNumbers_1365" />
         <item itemvalue="Application.goodPairs_1512" />
         <item itemvalue="Application.kidWithGratestCandies_1431" />
         <item itemvalue="Application.suffleArray_1470" />
-        <item itemvalue="Application.customerWealth_1672" />
       </list>
     </recent_temporary>
   </component>
@@ -140,7 +140,7 @@
       <workItem from="1662812178286" duration="2046000" />
       <workItem from="1662874459842" duration="3000" />
       <workItem from="1662892052975" duration="18608000" />
-      <workItem from="1663231473768" duration="8679000" />
+      <workItem from="1663231473768" duration="10638000" />
     </task>
     <task id="LOCAL-00001" summary="Solve: problem no. 278">
       <created>1662822141990</created>
@@ -247,7 +247,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663240476397</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Solved: problem no. 1365">
+      <created>1663241694049</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1663241694049</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -278,7 +285,8 @@
     <MESSAGE value="Solved: problem no. 1470" />
     <MESSAGE value="Solved: problem no. 1431" />
     <MESSAGE value="Solved: problem no. 1512" />
-    <option name="LAST_COMMIT_MESSAGE" value="Solved: problem no. 1512" />
+    <MESSAGE value="Solved: problem no. 1365" />
+    <option name="LAST_COMMIT_MESSAGE" value="Solved: problem no. 1365" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

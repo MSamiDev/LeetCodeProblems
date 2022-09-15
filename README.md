@@ -19,6 +19,7 @@
 - [1431. Kids With the Greatest Number of Candies](https://github.com/SamiShaikh6810/LeetCodeProblems/blob/master/src/Array/kidWithGratestCandies_1431.java)
 - [1512. Number of Good Pairs](https://github.com/SamiShaikh6810/LeetCodeProblems/blob/master/src/Array/goodPairs_1512.java)
 - [1365. How Many Numbers Are Smaller Than the Current Number](https://github.com/SamiShaikh6810/LeetCodeProblems/blob/master/src/Array/howManySmallNumbers_1365.java)
+- [1389. Create Target Array in the Given Order](https://github.com/SamiShaikh6810/LeetCodeProblems/blob/master/src/Array/createTargetArray_1389.java)
 
 
 </details>
