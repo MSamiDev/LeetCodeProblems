@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6a0bc94e-8682-4cc6-b8fb-af14553f23fe" name="Changes" comment="Update: refactor the directories">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+    <list default="true" id="6a0bc94e-8682-4cc6-b8fb-af14553f23fe" name="Changes" comment="Solved: problem no. 1480">
+      <change afterPath="$PROJECT_DIR$/src/Array/customerWealth_1672.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,22 +31,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Downloaded.Files.Path.Enabled": "false",
-    "Repository.Attach.Annotations": "false",
-    "Repository.Attach.JavaDocs": "false",
-    "Repository.Attach.Sources": "false",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "codeWithMe.voiceChat.enabledByDefault": "false",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.sumOfArray_1480">
+}</component>
+  <component name="RunManager" selected="Application.customerWealth_1672">
     <configuration name="arrayFromPermutation_1920" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Array.arrayFromPermutation_1920" />
       <module name="LeetCode" />
@@ -55,9 +54,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="badVersion_278" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Searching.badVersion_278" />
+    <configuration name="customerWealth_1672" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array.customerWealth_1672" />
       <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -85,11 +90,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.customerWealth_1672" />
         <item itemvalue="Application.sumOfArray_1480" />
         <item itemvalue="Application.arrayFromPermutation_1920" />
         <item itemvalue="Application.spiralMatrix2_59" />
         <item itemvalue="Application.spiralMatrix_54" />
-        <item itemvalue="Application.badVersion_278" />
       </list>
     </recent_temporary>
   </component>
@@ -110,7 +115,8 @@
       <workItem from="1662812071276" duration="68000" />
       <workItem from="1662812178286" duration="2046000" />
       <workItem from="1662874459842" duration="3000" />
-      <workItem from="1662892052975" duration="18432000" />
+      <workItem from="1662892052975" duration="18608000" />
+      <workItem from="1663231473768" duration="717000" />
     </task>
     <task id="LOCAL-00001" summary="Solve: problem no. 278">
       <created>1662822141990</created>
@@ -182,7 +188,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662931076818</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Update: add readme problems">
+      <created>1662932480806</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1662932480806</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -208,6 +221,7 @@
     <MESSAGE value="Solved: problem no. 1929" />
     <MESSAGE value="Solved: problem no. 1480" />
     <MESSAGE value="Update: refactor the directories" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update: refactor the directories" />
+    <MESSAGE value="Update: add readme problems" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update: add readme problems" />
   </component>
 </project>
