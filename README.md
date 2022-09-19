@@ -22,6 +22,7 @@
 - [1389. Create Target Array in the Given Order](https://github.com/SamiShaikh6810/LeetCodeProblems/blob/master/src/Array/createTargetArray_1389.java)
 - [167. Two Sum II - Input Array Is Sorted](https://github.com/SamiShaikh6810/LeetCodeProblems/blob/master/src/Array/twoSum2_167.java)
 - [1832. Check if the Sentence Is Pangram](https://github.com/SamiShaikh6810/LeetCodeProblems/blob/master/src/Array/sentenceIsPangram_1832.java)
+- [1773. Count Items Matching a Rule](https://github.com/SamiShaikh6810/LeetCodeProblems/blob/master/src/Array/matchingRule_1773.java)
 
 
 </details>
