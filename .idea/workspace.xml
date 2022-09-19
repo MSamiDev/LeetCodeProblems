@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6a0bc94e-8682-4cc6-b8fb-af14553f23fe" name="Changes" comment="Solved: problem no. 1389">
-      <change afterPath="$PROJECT_DIR$/src/Searching/twoSum2_167.java" afterDir="false" />
+    <list default="true" id="6a0bc94e-8682-4cc6-b8fb-af14553f23fe" name="Changes" comment="Solved: problem no. 167">
+      <change afterPath="$PROJECT_DIR$/src/Array/sentenceIsPangram_1832.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +46,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.twoSum2_167">
+  <component name="RunManager" selected="Application.sentenceIsPangram_1832">
     <configuration name="createTargetArray_1389" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Array.createTargetArray_1389" />
       <module name="LeetCode" />
@@ -87,8 +86,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="kidWithGratestCandies_1431" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array.kidWithGratestCandies_1431" />
+    <configuration name="sentenceIsPangram_1832" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array.sentenceIsPangram_1832" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
@@ -115,11 +114,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.sentenceIsPangram_1832" />
         <item itemvalue="Application.twoSum2_167" />
         <item itemvalue="Application.createTargetArray_1389" />
         <item itemvalue="Application.howManySmallNumbers_1365" />
         <item itemvalue="Application.goodPairs_1512" />
-        <item itemvalue="Application.kidWithGratestCandies_1431" />
       </list>
     </recent_temporary>
   </component>
@@ -142,7 +141,8 @@
       <workItem from="1662874459842" duration="3000" />
       <workItem from="1662892052975" duration="18608000" />
       <workItem from="1663231473768" duration="11403000" />
-      <workItem from="1663350236629" duration="1897000" />
+      <workItem from="1663350236629" duration="2677000" />
+      <workItem from="1663609182202" duration="722000" />
     </task>
     <task id="LOCAL-00001" summary="Solve: problem no. 278">
       <created>1662822141990</created>
@@ -263,7 +263,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663243517658</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Solved: problem no. 167">
+      <created>1663352326393</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1663352326393</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -296,7 +303,8 @@
     <MESSAGE value="Solved: problem no. 1512" />
     <MESSAGE value="Solved: problem no. 1365" />
     <MESSAGE value="Solved: problem no. 1389" />
-    <option name="LAST_COMMIT_MESSAGE" value="Solved: problem no. 1389" />
+    <MESSAGE value="Solved: problem no. 167" />
+    <option name="LAST_COMMIT_MESSAGE" value="Solved: problem no. 167" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
