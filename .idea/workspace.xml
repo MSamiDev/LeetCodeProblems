@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6a0bc94e-8682-4cc6-b8fb-af14553f23fe" name="Changes" comment="Solved: problem no. 1773">
-      <change afterPath="$PROJECT_DIR$/src/Array/highestAltitude_1732.java" afterDir="false" />
+    <list default="true" id="6a0bc94e-8682-4cc6-b8fb-af14553f23fe" name="Changes" comment="Solved: problem no. 1732">
+      <change afterPath="$PROJECT_DIR$/src/Array/sumEvenAfterQueries_985.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,20 +47,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.highestAltitude_1732">
-    <configuration name="createTargetArray_1389" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array.createTargetArray_1389" />
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Array.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.sumEvenAfterQueries_985">
     <configuration name="highestAltitude_1732" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Array.highestAltitude_1732" />
       <module name="LeetCode" />
@@ -99,6 +87,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="sumEvenAfterQueries_985" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array.sumEvenAfterQueries_985" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="twoSum2_167" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Searching.twoSum2_167" />
       <module name="LeetCode" />
@@ -114,11 +115,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.sumEvenAfterQueries_985" />
         <item itemvalue="Application.highestAltitude_1732" />
         <item itemvalue="Application.matchingRule_1773" />
         <item itemvalue="Application.sentenceIsPangram_1832" />
         <item itemvalue="Application.twoSum2_167" />
-        <item itemvalue="Application.createTargetArray_1389" />
       </list>
     </recent_temporary>
   </component>
@@ -142,7 +143,8 @@
       <workItem from="1662892052975" duration="18608000" />
       <workItem from="1663231473768" duration="11403000" />
       <workItem from="1663350236629" duration="2677000" />
-      <workItem from="1663609182202" duration="5157000" />
+      <workItem from="1663609182202" duration="5399000" />
+      <workItem from="1663771895042" duration="1590000" />
     </task>
     <task id="LOCAL-00001" summary="Solve: problem no. 278">
       <created>1662822141990</created>
@@ -284,7 +286,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663614245606</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="Solved: problem no. 1732">
+      <created>1663615925839</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1663615925839</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -320,7 +329,8 @@
     <MESSAGE value="Solved: problem no. 167" />
     <MESSAGE value="Solved: problem no. 1832" />
     <MESSAGE value="Solved: problem no. 1773" />
-    <option name="LAST_COMMIT_MESSAGE" value="Solved: problem no. 1773" />
+    <MESSAGE value="Solved: problem no. 1732" />
+    <option name="LAST_COMMIT_MESSAGE" value="Solved: problem no. 1732" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
