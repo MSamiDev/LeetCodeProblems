@@ -25,6 +25,7 @@
 - [1773. Count Items Matching a Rule](https://github.com/SamiShaikh6810/LeetCodeProblems/blob/master/src/Array/matchingRule_1773.java)
 - [1732. Find the Highest Altitude](https://github.com/SamiShaikh6810/LeetCodeProblems/blob/master/src/Array/highestAltitude_1732.java)
 - [985. Sum of Even Numbers After Queries](https://github.com/SamiShaikh6810/LeetCodeProblems/blob/master/src/Array/sumEvenAfterQueries_985.java)
+- [11. Container With Most Water](https://github.com/SamiShaikh6810/LeetCodeProblems/blob/master/src/Array/mostWater_11.java)
 
 
 </details>
