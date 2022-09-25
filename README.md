@@ -27,6 +27,7 @@
 - [11. Container With Most Water](https://github.com/SamiShaikh6810/LeetCodeProblems/blob/master/src/Array/mostWater_11.java)
 - [557. Reverse Words in a String III](https://github.com/SamiShaikh6810/LeetCodeProblems/blob/master/src/Array/reverseWords_557.java)
 - [832. Flipping an Image](https://github.com/SamiShaikh6810/LeetCodeProblems/blob/master/src/Array/flippingImage_832.java)
+- [135. Candy](https://github.com/SamiShaikh6810/LeetCodeProblems/blob/master/src/Array/candy_135.java)
 
 
 </details>

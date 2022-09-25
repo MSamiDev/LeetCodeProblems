@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6a0bc94e-8682-4cc6-b8fb-af14553f23fe" name="Changes" comment="Solved: problem no. 11">
-      <change afterPath="$PROJECT_DIR$/src/Array/flippingImage_832.java" afterDir="false" />
+    <list default="true" id="6a0bc94e-8682-4cc6-b8fb-af14553f23fe" name="Changes" comment="Solved: problem no. 832">
+      <change afterPath="$PROJECT_DIR$/src/Array/candy_135.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Array/flippingImage_832.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Array/flippingImage_832.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,9 +47,9 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.flippingImage_832">
-    <configuration name="flippingImage_832" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array.flippingImage_832" />
+  <component name="RunManager" selected="Application.candy_135">
+    <configuration name="candy_135" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array.candy_135" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
@@ -60,8 +61,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="highestAltitude_1732" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array.highestAltitude_1732" />
+    <configuration name="flippingImage_832" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array.flippingImage_832" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
@@ -114,11 +115,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.candy_135" />
         <item itemvalue="Application.flippingImage_832" />
         <item itemvalue="Application.reverseWords_557" />
         <item itemvalue="Application.mostWater_11" />
         <item itemvalue="Application.sumEvenAfterQueries_985" />
-        <item itemvalue="Application.highestAltitude_1732" />
       </list>
     </recent_temporary>
   </component>
@@ -148,7 +149,7 @@
       <workItem from="1664031497383" duration="102000" />
       <workItem from="1664031663763" duration="76000" />
       <workItem from="1664031805778" duration="229000" />
-      <workItem from="1664032066052" duration="2037000" />
+      <workItem from="1664032066052" duration="16380000" />
     </task>
     <task id="LOCAL-00001" summary="Solve: problem no. 278">
       <created>1662822141990</created>
@@ -311,7 +312,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663777675785</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="Solved: problem no. 832">
+      <created>1664034428042</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1664034428042</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -350,7 +358,8 @@
     <MESSAGE value="Solved: problem no. 1732" />
     <MESSAGE value="Solved: problem no. 985" />
     <MESSAGE value="Solved: problem no. 11" />
-    <option name="LAST_COMMIT_MESSAGE" value="Solved: problem no. 11" />
+    <MESSAGE value="Solved: problem no. 832" />
+    <option name="LAST_COMMIT_MESSAGE" value="Solved: problem no. 832" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -362,8 +371,13 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Array/flippingImage_832.java</url>
-          <line>13</line>
-          <option name="timeStamp" value="5" />
+          <line>80</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Array/candy_135.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="15" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
