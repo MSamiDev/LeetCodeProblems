@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6a0bc94e-8682-4cc6-b8fb-af14553f23fe" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Array/pushDominoes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Searching/validSquare_367.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
@@ -47,7 +47,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.pushDominoes_838">
+  <component name="RunManager" selected="Application.validSquare_367">
     <configuration name="candy_135" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Array.candy_135" />
       <module name="LeetCode" />
@@ -63,19 +63,6 @@
     </configuration>
     <configuration name="flippingImage_832" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Array.flippingImage_832" />
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Array.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="mostWater_11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array.mostWater_11" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
@@ -113,13 +100,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="validSquare_367" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Searching.validSquare_367" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Searching.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.validSquare_367" />
         <item itemvalue="Application.pushDominoes_838" />
         <item itemvalue="Application.candy_135" />
         <item itemvalue="Application.flippingImage_832" />
         <item itemvalue="Application.reverseWords_557" />
-        <item itemvalue="Application.mostWater_11" />
       </list>
     </recent_temporary>
   </component>
@@ -150,7 +150,8 @@
       <workItem from="1664031663763" duration="76000" />
       <workItem from="1664031805778" duration="229000" />
       <workItem from="1664032066052" duration="17063000" />
-      <workItem from="1664290878417" duration="8076000" />
+      <workItem from="1664290878417" duration="9085000" />
+      <workItem from="1664353998709" duration="4312000" />
     </task>
     <task id="LOCAL-00001" summary="Solve: problem no. 278">
       <created>1662822141990</created>
@@ -334,7 +335,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664094320133</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="Solved: problem no. 838">
+      <created>1664342188439</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1664342188439</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -375,7 +383,8 @@
     <MESSAGE value="Solved: problem no. 11" />
     <MESSAGE value="Solved: problem no. 832" />
     <MESSAGE value="Solved: problem no. 135" />
-    <option name="LAST_COMMIT_MESSAGE" value="Solved: problem no. 135" />
+    <MESSAGE value="Solved: problem no. 838" />
+    <option name="LAST_COMMIT_MESSAGE" value="Solved: problem no. 838" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -389,6 +398,16 @@
           <url>file://$PROJECT_DIR$/src/Array/flippingImage_832.java</url>
           <line>80</line>
           <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Searching/validSquare_367.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Searching/validSquare_367.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="16" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

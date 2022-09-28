@@ -41,6 +41,7 @@
 - [278. First Bad Version](https://github.com/SamiShaikh6810/LeetCodeProblems/blob/master/src/Searching/badVersion_278.java)
 - [374. Guess Number Higher or Lower](https://github.com/SamiShaikh6810/LeetCodeProblems/blob/master/src/Searching/guess_374.java)
 - [167. Two Sum II - Input Array Is Sorted](https://github.com/SamiShaikh6810/LeetCodeProblems/blob/master/src/Searching/twoSum2_167.java)
+- [367. Valid Perfect Square](https://github.com/SamiShaikh6810/LeetCodeProblems/blob/master/src/Searching/validSquare_367.java)
 
 
 </details>
