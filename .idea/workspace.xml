@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6a0bc94e-8682-4cc6-b8fb-af14553f23fe" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Searching/sumSquare_633.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Searching/arrangingCoins_441.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,13 +47,13 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.sumSquare_633">
-    <configuration name="candy_135" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array.candy_135" />
+  <component name="RunManager" selected="Application.arrangingCoins_441">
+    <configuration name="arrangingCoins_441" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Searching.arrangingCoins_441" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Array.*" />
+          <option name="PATTERN" value="Searching.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -60,8 +61,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="flippingImage_832" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array.flippingImage_832" />
+    <configuration name="candy_135" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array.candy_135" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
@@ -114,11 +115,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.arrangingCoins_441" />
         <item itemvalue="Application.sumSquare_633" />
         <item itemvalue="Application.validSquare_367" />
         <item itemvalue="Application.pushDominoes_838" />
         <item itemvalue="Application.candy_135" />
-        <item itemvalue="Application.flippingImage_832" />
       </list>
     </recent_temporary>
   </component>
@@ -151,6 +152,7 @@
       <workItem from="1664032066052" duration="17063000" />
       <workItem from="1664290878417" duration="9085000" />
       <workItem from="1664353998709" duration="6761000" />
+      <workItem from="1664379440130" duration="4458000" />
     </task>
     <task id="LOCAL-00001" summary="Solve: problem no. 278">
       <created>1662822141990</created>
@@ -348,7 +350,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664358596329</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="Solved: problem no. 633">
+      <created>1664379611214</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1664379611214</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -366,7 +375,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Solve: problem no. 278" />
     <MESSAGE value="Solve: problem no. 54" />
     <MESSAGE value="Solving: problem no. 59" />
     <MESSAGE value="Solved: problem no. 59" />
@@ -391,7 +399,8 @@
     <MESSAGE value="Solved: problem no. 135" />
     <MESSAGE value="Solved: problem no. 838" />
     <MESSAGE value="Solved: problem no. 367" />
-    <option name="LAST_COMMIT_MESSAGE" value="Solved: problem no. 367" />
+    <MESSAGE value="Solved: problem no. 633" />
+    <option name="LAST_COMMIT_MESSAGE" value="Solved: problem no. 633" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

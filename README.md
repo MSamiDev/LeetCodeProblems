@@ -43,6 +43,7 @@
 - [167. Two Sum II - Input Array Is Sorted](https://github.com/SamiShaikh6810/LeetCodeProblems/blob/master/src/Searching/twoSum2_167.java)
 - [367. Valid Perfect Square](https://github.com/SamiShaikh6810/LeetCodeProblems/blob/master/src/Searching/validSquare_367.java)
 - [633. Sum of Square Numbers](https://github.com/SamiShaikh6810/LeetCodeProblems/blob/master/src/Searching/sumSquare_633.java)
+- [633. Sum of Square Numbers](https://github.com/SamiShaikh6810/LeetCodeProblems/blob/master/src/Searching/arrangingCoins_441.java)
 
 
 </details>
