@@ -167,7 +167,7 @@
       <workItem from="1664379440130" duration="4458000" />
       <workItem from="1669728893856" duration="617000" />
       <workItem from="1669789710390" duration="1747000" />
-      <workItem from="1669973282214" duration="2285000" />
+      <workItem from="1669973282214" duration="2926000" />
     </task>
     <task id="LOCAL-00001" summary="Solve: problem no. 278">
       <created>1662822141990</created>
@@ -439,11 +439,6 @@
           <url>file://$PROJECT_DIR$/src/Searching/validSquare_367.java</url>
           <line>13</line>
           <option name="timeStamp" value="16" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Array/arrayFromPermutation_1920.java</url>
-          <line>15</line>
-          <option name="timeStamp" value="20" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
