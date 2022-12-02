@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6a0bc94e-8682-4cc6-b8fb-af14553f23fe" name="Changes" comment="Solved: problem no. 633">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Array/arrayFromPermutation_1920.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Array/arrayFromPermutation_1920.java" afterDir="false" />
-    </list>
+    <list default="true" id="6a0bc94e-8682-4cc6-b8fb-af14553f23fe" name="Changes" comment="Solved: problem no. 1920" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -167,7 +163,7 @@
       <workItem from="1664379440130" duration="4458000" />
       <workItem from="1669728893856" duration="617000" />
       <workItem from="1669789710390" duration="1747000" />
-      <workItem from="1669973282214" duration="2926000" />
+      <workItem from="1669973282214" duration="3384000" />
     </task>
     <task id="LOCAL-00001" summary="Solve: problem no. 278">
       <created>1662822141990</created>
@@ -372,7 +368,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664379611214</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="Solved: problem no. 1920">
+      <created>1669977684033</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1669977684033</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -393,7 +396,6 @@
     <MESSAGE value="Solve: problem no. 54" />
     <MESSAGE value="Solving: problem no. 59" />
     <MESSAGE value="Solved: problem no. 59" />
-    <MESSAGE value="Solved: problem no. 1920" />
     <MESSAGE value="Solved: problem no. 1929" />
     <MESSAGE value="Solved: problem no. 1480" />
     <MESSAGE value="Update: refactor the directories" />
@@ -415,7 +417,8 @@
     <MESSAGE value="Solved: problem no. 838" />
     <MESSAGE value="Solved: problem no. 367" />
     <MESSAGE value="Solved: problem no. 633" />
-    <option name="LAST_COMMIT_MESSAGE" value="Solved: problem no. 633" />
+    <MESSAGE value="Solved: problem no. 1920" />
+    <option name="LAST_COMMIT_MESSAGE" value="Solved: problem no. 1920" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
