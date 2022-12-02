@@ -1,10 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="6a0bc94e-8682-4cc6-b8fb-af14553f23fe" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Searching/arrangingCoins_441.java" afterDir="false" />
+    <list default="true" id="6a0bc94e-8682-4cc6-b8fb-af14553f23fe" name="Changes" comment="Solved: problem no. 633">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Array/arrayFromPermutation_1920.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Array/arrayFromPermutation_1920.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,11 +47,13 @@
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.language&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.arrangingCoins_441">
+  <component name="RunManager" selected="Application.arrayFromPermutation_1920">
     <configuration name="arrangingCoins_441" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="19" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
       <option name="MAIN_CLASS_NAME" value="Searching.arrangingCoins_441" />
       <module name="LeetCode" />
       <extension name="coverage">
@@ -61,8 +66,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="candy_135" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array.candy_135" />
+    <configuration name="arrayFromPermutation_1920" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array.arrayFromPermutation_1920" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
@@ -113,13 +118,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Application.arrayFromPermutation_1920" />
+      <item itemvalue="Application.arrangingCoins_441" />
+      <item itemvalue="Application.pushDominoes_838" />
+      <item itemvalue="Application.sumSquare_633" />
+      <item itemvalue="Application.validSquare_367" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.arrayFromPermutation_1920" />
         <item itemvalue="Application.arrangingCoins_441" />
         <item itemvalue="Application.sumSquare_633" />
         <item itemvalue="Application.validSquare_367" />
         <item itemvalue="Application.pushDominoes_838" />
-        <item itemvalue="Application.candy_135" />
       </list>
     </recent_temporary>
   </component>
@@ -153,6 +165,9 @@
       <workItem from="1664290878417" duration="9085000" />
       <workItem from="1664353998709" duration="6761000" />
       <workItem from="1664379440130" duration="4458000" />
+      <workItem from="1669728893856" duration="617000" />
+      <workItem from="1669789710390" duration="1747000" />
+      <workItem from="1669973282214" duration="2285000" />
     </task>
     <task id="LOCAL-00001" summary="Solve: problem no. 278">
       <created>1662822141990</created>
@@ -424,6 +439,11 @@
           <url>file://$PROJECT_DIR$/src/Searching/validSquare_367.java</url>
           <line>13</line>
           <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Array/arrayFromPermutation_1920.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="20" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

@@ -11,9 +11,14 @@ public class arrayFromPermutation_1920 {
     }
 
     private static int[] buildArray(int[] nums) {
-        int[] ans = new int[nums.length];
-        for(int i = 0; i < nums.length; i++){
+        int n = nums.length;
+        int[] ans = new int[n];
+        int j = n-1;
+        for (int i=0; i <= n/2; i++){
+
+            ans[j] = nums[nums[j]];
             ans[i] = nums[nums[i]];
+            j--;
         }
         return ans;
     }
