@@ -2,7 +2,7 @@ package Array;
 
 import java.util.Arrays;
 
-public class concatinateArray_1929 {
+public class concatenateArray_1929 {
     public static void main(String[] args) {
         int[] nums = {0,2,1,5,3,4};
         //        int[] nums = {5,0,1,2,3,4};
@@ -11,13 +11,13 @@ public class concatinateArray_1929 {
     }
 
     private static int[] getConcatenation(int[] nums) {
-        int[] ans = new int[2* nums.length];
-        int j = 0;
-        while (j < 2) {
-            if(j == 0){
-                System.arraycopy(nums, 0, ans, 0, nums.length);
-            }else System.arraycopy(nums, 0, ans, nums.length, nums.length);
-            j++;
+        int n = nums.length;
+        int[] ans = new int[n * 2];
+        int j = n-1;
+        for(int i = 0; i <= n/2; i++){
+            ans[i] = ans[n + i] = nums[i];
+            ans[j] = ans[n + j] = nums[j];
+            j--;
         }
         return ans;
     }
