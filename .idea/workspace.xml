@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="6a0bc94e-8682-4cc6-b8fb-af14553f23fe" name="Changes" comment="Solved: problem no. 1920">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Array/concatinateArray_1929.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Array/concatenateArray_1929.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Array/sumOfArray_1480.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Array/sumOfArray_1480.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +49,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.language&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.concatenateArray_1929">
+  <component name="RunManager" selected="Application.sumOfArray_1480">
     <configuration name="arrangingCoins_441" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="ALTERNATIVE_JRE_PATH" value="19" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
@@ -104,12 +104,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="sumSquare_633" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Searching.sumSquare_633" />
+    <configuration name="sumOfArray_1480" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array.sumOfArray_1480" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Searching.*" />
+          <option name="PATTERN" value="Array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,16 +121,16 @@
       <item itemvalue="Application.arrayFromPermutation_1920" />
       <item itemvalue="Application.concatenateArray_1929" />
       <item itemvalue="Application.concatinateArray_1929" />
+      <item itemvalue="Application.sumOfArray_1480" />
       <item itemvalue="Application.arrangingCoins_441" />
-      <item itemvalue="Application.sumSquare_633" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.sumOfArray_1480" />
         <item itemvalue="Application.concatenateArray_1929" />
         <item itemvalue="Application.concatinateArray_1929" />
         <item itemvalue="Application.arrayFromPermutation_1920" />
         <item itemvalue="Application.arrangingCoins_441" />
-        <item itemvalue="Application.sumSquare_633" />
       </list>
     </recent_temporary>
   </component>
@@ -166,7 +166,7 @@
       <workItem from="1664379440130" duration="4458000" />
       <workItem from="1669728893856" duration="617000" />
       <workItem from="1669789710390" duration="1747000" />
-      <workItem from="1669973282214" duration="5926000" />
+      <workItem from="1669973282214" duration="6587000" />
     </task>
     <task id="LOCAL-00001" summary="Solve: problem no. 278">
       <created>1662822141990</created>
@@ -445,6 +445,11 @@
           <url>file://$PROJECT_DIR$/src/Searching/validSquare_367.java</url>
           <line>13</line>
           <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Array/sumOfArray_1480.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="23" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
