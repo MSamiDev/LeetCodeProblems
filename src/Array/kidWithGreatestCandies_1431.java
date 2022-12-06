@@ -3,13 +3,12 @@ package Array;
 import java.util.ArrayList;
 import java.util.List;
 
-public class kidWithGratestCandies_1431 {
+public class kidWithGreatestCandies_1431 {
     public static void main(String[] args) {
         int[] candies = {4,2,1,1,2};
         int extraCandies = 1;
         List<Boolean> ans = kidsWithCandies(candies, extraCandies);
         System.out.println(ans);
-
     }
 
     private static List<Boolean> kidsWithCandies(int[] candies, int extraCandies) {

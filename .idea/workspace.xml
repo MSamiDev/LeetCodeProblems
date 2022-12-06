@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6a0bc94e-8682-4cc6-b8fb-af14553f23fe" name="Changes" comment="Solved: problem no. 1920">
+    <list default="true" id="6a0bc94e-8682-4cc6-b8fb-af14553f23fe" name="Changes" comment="Solved: problem no. 1480">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Array/sumOfArray_1480.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Array/sumOfArray_1480.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Array/kidWithGratestCandies_1431.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Array/kidWithGreatestCandies_1431.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -166,7 +166,8 @@
       <workItem from="1664379440130" duration="4458000" />
       <workItem from="1669728893856" duration="617000" />
       <workItem from="1669789710390" duration="1747000" />
-      <workItem from="1669973282214" duration="6587000" />
+      <workItem from="1669973282214" duration="8030000" />
+      <workItem from="1670334558120" duration="4346000" />
     </task>
     <task id="LOCAL-00001" summary="Solve: problem no. 278">
       <created>1662822141990</created>
@@ -427,11 +428,6 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Array/kidWithGratestCandies_1431.java</url>
-          <line>15</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Array/flippingImage_832.java</url>
           <line>80</line>
           <option name="timeStamp" value="11" />
@@ -445,11 +441,6 @@
           <url>file://$PROJECT_DIR$/src/Searching/validSquare_367.java</url>
           <line>13</line>
           <option name="timeStamp" value="16" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Array/sumOfArray_1480.java</url>
-          <line>16</line>
-          <option name="timeStamp" value="23" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
