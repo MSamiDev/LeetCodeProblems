@@ -22,7 +22,7 @@ public class goodPairs_1512 {
         for (int num : nums) {
             range[num]++;
         }
-        for(int v:range){
+        for(int v : range){
             result +=(v*(v-1))/2;
         }
         return result;
