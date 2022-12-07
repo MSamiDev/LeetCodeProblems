@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6a0bc94e-8682-4cc6-b8fb-af14553f23fe" name="Changes" comment="Solved: problem no. 1480">
+    <list default="true" id="6a0bc94e-8682-4cc6-b8fb-af14553f23fe" name="Changes" comment="Solved: problem no. 1431">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Array/kidWithGratestCandies_1431.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Array/kidWithGreatestCandies_1431.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Array/goodPairs_1512.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Array/goodPairs_1512.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -167,7 +167,7 @@
       <workItem from="1669728893856" duration="617000" />
       <workItem from="1669789710390" duration="1747000" />
       <workItem from="1669973282214" duration="8030000" />
-      <workItem from="1670334558120" duration="4346000" />
+      <workItem from="1670334558120" duration="6353000" />
     </task>
     <task id="LOCAL-00001" summary="Solve: problem no. 278">
       <created>1662822141990</created>
@@ -379,7 +379,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669977684033</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="Solved: problem no. 1431">
+      <created>1670345724153</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1670345724153</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -406,7 +413,6 @@
     <MESSAGE value="Update: add readme problems" />
     <MESSAGE value="Solved: problem no. 1672" />
     <MESSAGE value="Solved: problem no. 1470" />
-    <MESSAGE value="Solved: problem no. 1431" />
     <MESSAGE value="Solved: problem no. 1512" />
     <MESSAGE value="Solved: problem no. 1365" />
     <MESSAGE value="Solved: problem no. 1389" />
@@ -422,7 +428,8 @@
     <MESSAGE value="Solved: problem no. 367" />
     <MESSAGE value="Solved: problem no. 633" />
     <MESSAGE value="Solved: problem no. 1920" />
-    <option name="LAST_COMMIT_MESSAGE" value="Solved: problem no. 1920" />
+    <MESSAGE value="Solved: problem no. 1431" />
+    <option name="LAST_COMMIT_MESSAGE" value="Solved: problem no. 1431" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
